@@ -1,4 +1,4 @@
-## Up for deletion
+## Up for Removal
 
 # ngo-website
 A modern, responsive website for an NGO — includes design system, PRD, and documentation.
